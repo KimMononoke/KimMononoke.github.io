@@ -73,4 +73,4 @@ build-iPhoneSimulator/
 
 #######
 # local installations
-Gemfile.lock
+#Gemfile.lock
